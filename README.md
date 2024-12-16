@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hasan
 - 👀 I’m interested in AI, NLP, Entrepreneurship
-- 🌱 I’m currently learning deeplearning.ai
-- 💞️ I’m looking to collaborate on anything that is purposeful for humannity
-- 📫 How to reach me...
+- 🌱 I’m currently learning more about these topics 
+- 💞️ I’m looking to collaborate on anything that has a meaningful usecase
+- 📫 How to reach me LinkedIn or any other social.
 - ⚡ Fun fact: That actually we don´t really know if thoughts leads to emotions or emotions to thoughts?
 
 <!---
